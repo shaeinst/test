@@ -4,6 +4,6 @@
 
 int main(int argc, const char** argv) {
 
-
+	printf("wow\n");
 	return 0;
 }
